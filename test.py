@@ -106,11 +106,11 @@ class InferThread(threading.Thread):
                 if(facedis.size>0):
                   matchindex=np.argmin(facedis)
                   if (matches[matchindex]):
-                    cv2.rectangle(imgs,(x1,y1),(x2,y2),(0,255,0),2)
+                    cv2.rectangle(img,(x1,y1),(x2,y2),(0,255,0),2)
                   print(matchindex)
 
                 
-            cv2.imshow('cap',imgs)
+            cv2.imshow('cap',img)
             if cv2.waitKey(1) & 0xFF == ord('q'):
                   break
 
