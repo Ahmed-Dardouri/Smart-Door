@@ -7,5 +7,6 @@ python Tenserfow Multithreading Numpy Matplotlib Dlib Face_recognition  Os
 # Branches # 
 there are 3 branches one for the tenserflow  the 2 for razbery and the 
 other for thread code  
-## tenserflow code ## 
+## tenserflow code ##  
+we train a MobileNet model and we attend 97% 
   
