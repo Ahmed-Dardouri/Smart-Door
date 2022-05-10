@@ -5,8 +5,8 @@ It can be deployed in public spaces such as classrooms and companies.
 # Technologies and Libraries # 
 python Tensorfow Multithreading Numpy Matplotlib Dlib Face_recognition  Os
 # Branches # 
-there are 3 branches, one for the tensorflow  the 2nd for raspberry and the 
-3rd for thread code  
+there are 3 branches: the 1st is for the tensorflow model ,the 2nd is for raspberry and the 
+3rd is for the thread code  
 ## tenserflow code ##  
 we trained a MobileNet model using transfer learning and we attained 97% accuracy
   
