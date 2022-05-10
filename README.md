@@ -3,10 +3,10 @@ this project is part of ARE's internal projects for 2021/2022.
 It consists of a door that opens automatically using face detection algorithms.
 It can be deployed in public spaces such as classrooms and companies. 
 # Technologies and Libraries # 
-python Tenserfow Multithreading Numpy Matplotlib Dlib Face_recognition  Os
+python Tensorfow Multithreading Numpy Matplotlib Dlib Face_recognition  Os
 # Branches # 
-there are 3 branches one for the tenserflow  the 2 for razbery and the 
-other for thread code  
+there are 3 branches, one for the tensorflow  the 2nd for raspberry and the 
+3rd for thread code  
 ## tenserflow code ##  
-we train a MobileNet model and we attend 97% 
+we trained a MobileNet model using transfer learning and we attained 97% accuracy
   
